@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167701038590",
+    "firebase_url": "https://bobshare-7bb94.firebaseio.com",
+    "project_id": "bobshare-7bb94",
+    "storage_bucket": "bobshare-7bb94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167701038590:android:7b9658ecb68a117b1eecaf",
+        "android_client_info": {
+          "package_name": "com.example.bobshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167701038590-37imslbkan1nct0k22uud8ugejl75el8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bobshare",
+            "certificate_hash": "49d78f878ae455f03e5211ad268a093f3a523403"
+          }
+        },
+        {
+          "client_id": "167701038590-tlc3tgibpp520u7ckbq7qc0hqmlddmcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdYhdpYtoCS-dYyzhPGARNgQMNKwCub7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167701038590-tlc3tgibpp520u7ckbq7qc0hqmlddmcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
